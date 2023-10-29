@@ -12,11 +12,11 @@
 			- True or False
 		- used in to control the flow of programs (within if or while)
 		- can be determined with comparison operators (e.g. 5 > 15 results in False)
-	- These types can be turned into others using the following functions
-		- use str() to convert the other 3 types to string
-		- use int() to convert float or string to an integer
-		- use float() to convert int or string to a float
-		- converting other types to bool will have unexpected results for inexperienced programmers
+- These types can be turned into others using the following functions
+	- use str() to convert the other 3 types to string
+	- use int() to convert float or string to an integer
+	- use float() to convert int or string to a float
+	- converting other types to bool will have unexpected results for inexperienced programmers
 ```python
 whole_number = 1
 float_number = 1.25
