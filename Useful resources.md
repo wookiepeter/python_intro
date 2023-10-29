@@ -1,0 +1,11 @@
+- [Our files](https://github.com/wookiepeter/python_intro)
+	- Most of the important notes and solutions used during the session
+	- will keep this updated
+- [Online Python Interpreter](https://www.online-python.com/)
+	- very basic online python ide
+- [Python cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
+	- explains many of the python in a short overview
+	- some sections might be a little hard to understand for people just starting out
+- [Codingame](https://www.codingame.com/home)
+	- tasks / puzzle one can do using an online ide, sometimes with a visual representation of the taska
+- OPTIONAL: [Install python and vscode on windows!](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
