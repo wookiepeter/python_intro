@@ -1,6 +1,8 @@
 import sys
 import math
 
+# partial solutcion for this puzzle: https://www.codingame.com/ide/puzzle/power-of-thor-episode-1
+
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 # ---

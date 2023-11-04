@@ -1,6 +1,8 @@
 import sys
 import math
 
+# solution for this puzzle: https://www.codingame.com/ide/puzzle/the-descent
+
 # The while loop represents the game.
 # Each iteration represents a turn of the game
 # where you are given inputs (the heights of the mountains)
