@@ -1,5 +1,5 @@
-# Python Intro
-This repository holds notes and example files related to an introduction to the python language
+# Python / Godot Intro
+This repository holds files for an introduction course to Game-Programming with the Godot engine. This course was created for people with minimal programming knowledge, therefore it starts out with some lessons in python before getting into Godot and gdscript. 
 
 All notes and slides where originally created in [Obsidian](https://obsidian.md/) but should still be viewable with most markdown viewers. 
 
