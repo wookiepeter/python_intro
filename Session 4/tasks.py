@@ -4,13 +4,8 @@
 # HINT: Look at this file https://github.com/wookiepeter/python_intro/blob/main/Loops.md to see how to iterate through a list! 
 # Don't change the function signature, otherwise the provided tests will fail
 
-def count_number_in_list(list, number):  
-    count = 0
-    for i in list: 
-        if i == number: 
-            count += 1
-
-    return count
+def count_number_in_list(list, number):
+    return 0
 
 # These are some tests provided for the function -> do not remove them!
 assert count_number_in_list([1, 2, 3, 4, 5, 1, 2], 1) == 2
@@ -24,12 +19,7 @@ print("Task 1 Tests passed!")
 # The function is supposed to compute and return the factorial of the provided number
 # HINT: If you don't remember how to compute the factorial look at this link: https://de.wikipedia.org/wiki/Fakult%C3%A4t_(Mathematik)#Diskrete_Standarddefinition
 def factorial(number): 
-    if number == 0: 
-        return 0
-    result = 1
-    for i in range(1, number + 1, 1): 
-        result *= i
-    return result
+    return 0
 
 
 # These are some tests provided for the function -> do not remove them!
@@ -47,14 +37,6 @@ print("Task 2 Tests passed")
 
 def fizzbuzz(): 
     print("Starting with FizzBuzz")
-    for i in range(1, 51, 1): 
-        result = ""
-        if i % 3 == 0: 
-            result += "Fizz"
-        if i % 5 == 0: 
-            result += "Buzz"
-        if result == "": 
-            result += str(i) 
-        print(result)
+
 
 fizzbuzz()
