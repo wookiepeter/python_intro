@@ -23,7 +23,7 @@ def factorial(number):
 
 
 # These are some tests provided for the function -> do not remove them!
-assert factorial(0) == 0
+assert factorial(0) == 1
 assert factorial(5) == 120
 assert factorial(9) == 362880
 
@@ -37,6 +37,5 @@ print("Task 2 Tests passed")
 
 def fizzbuzz(): 
     print("Starting with FizzBuzz")
-
 
 fizzbuzz()

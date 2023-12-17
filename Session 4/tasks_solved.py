@@ -25,7 +25,7 @@ print("Task 1 Tests passed!")
 # HINT: If you don't remember how to compute the factorial look at this link: https://de.wikipedia.org/wiki/Fakult%C3%A4t_(Mathematik)#Diskrete_Standarddefinition
 def factorial(number): 
     if number == 0: 
-        return 0
+        return 1
     result = 1
     for i in range(1, number + 1, 1): 
         result *= i
@@ -33,7 +33,7 @@ def factorial(number):
 
 
 # These are some tests provided for the function -> do not remove them!
-assert factorial(0) == 0
+assert factorial(0) == 1
 assert factorial(5) == 120
 assert factorial(9) == 362880
 
