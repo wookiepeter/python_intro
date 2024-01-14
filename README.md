@@ -26,3 +26,11 @@ A link to the specific puzzle can be found in the comments in each file.
 - [python vs gdscript](./python%20vs%20gdscript.md)
 - [Scenes & Nodes](./Scenes%20&%20Nodes.md)
 - [Classes & Objects](./Classes%20&%20Objects.md)
+
+### Session 4 
+- [Slides](./Session%204%20-%20Slides.md)
+- [Signals](./Signals.md)
+
+### Session 5
+- [Slides](./Session%205%20-%20Slides.md)
+- [Documentation](./Documentation.md)
